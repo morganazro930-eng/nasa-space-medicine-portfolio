@@ -1,0 +1,2 @@
+participant_id,visit_number,scheduled_date,visit_status,measures_completed,device_data_collected,data_quality_notes,follow_up_needed
+P001,V01,YYYY-MM-DD,Scheduled/Completed/Cancelled,"Consent, survey, EEG",Yes/No,None,Yes/No

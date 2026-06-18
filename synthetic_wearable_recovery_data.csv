@@ -1,0 +1,7 @@
+participant_id,study_day,sleep_hours,sleep_efficiency_pct,resting_hr,hrv_ms,recovery_score,fatigue_score,pain_score
+P001,1,6.2,82,68,42,71,4,5
+P001,2,7.1,88,64,48,80,3,4
+P001,3,5.8,76,72,35,61,6,6
+P002,1,6.9,84,66,45,75,4,3
+P002,2,7.4,90,62,52,84,2,2
+P002,3,6.1,79,70,38,64,5,4
