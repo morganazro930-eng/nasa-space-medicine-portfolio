@@ -1,0 +1,30 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# Data privacy
+data/raw/*
+!data/raw/README.md
+*.xlsx
+*.xls
+*.sav
+*.sas7bdat
+
+# Sensitive documents
+*PHI*
+*PII*
+*CUI*
+*confidential*
+*Confidential*
+*participant*
+*Participant*

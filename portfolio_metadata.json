@@ -1,0 +1,15 @@
+{
+  "portfolio_name": "Morgan Robinson NASA / Space Medicine Portfolio",
+  "suggested_repo_name": "nasa-space-medicine-portfolio",
+  "focus_areas": [
+    "human performance",
+    "space medicine",
+    "neurotechnology",
+    "wearable data",
+    "rehabilitation systems",
+    "Earth observation",
+    "NASA open science",
+    "clinical research operations"
+  ],
+  "privacy_rule": "Use only public, synthetic, or de-identified data. Do not upload PHI, CUI, controlled, employer-owned, or participant-identifiable materials."
+}
